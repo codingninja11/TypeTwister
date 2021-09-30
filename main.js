@@ -30,6 +30,9 @@ const words = [
   'admit',
   'drag',
   'loving',
+  'caring',
+  'pubg',
+  'game'
 ];
 
 // Init word
