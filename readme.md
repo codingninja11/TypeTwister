@@ -14,4 +14,7 @@ Game to beat the clock by typing random words which tests your speed.
 - Implement timer
 - Add certain amount of time after word is typed based on difficulty
 - Store difficulty setting in local storage
+
+## Screenshots
 - Implement high score
+
