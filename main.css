@@ -127,3 +127,15 @@
     border-radius : 10px;
     background-color: rgb(207, 201, 201);
   }
+
+  .reload-btn {
+    background-color: #16191B;
+    border-radius: 1em;
+    border: 2px solid #FFF;
+    color: #FFF;
+    padding: 0.5em 3em;
+  }
+  
+  .reload-btn:hover, .reload-btn:focus, .reload-btn:active {
+    background-color: #3C3F42;
+  }
