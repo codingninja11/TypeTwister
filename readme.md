@@ -2,7 +2,9 @@
 
 ## Speed Typer Typing Game
 
+ dev-abhi
 Game to beat the clock by typing random words which checks your typing speed.
+
 
 <img width="959" alt="game" src="https://user-images.githubusercontent.com/64359203/132181239-976f63a5-ad39-421e-82a9-c914b1525c76.png">
 
@@ -14,3 +16,4 @@ Game to beat the clock by typing random words which checks your typing speed.
 - Implement timer
 - Add certain amount of time after word is typed based on difficulty
 - Store difficulty setting in local storage
+- Implement high score
